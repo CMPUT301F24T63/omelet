@@ -1,5 +1,5 @@
-class big_circle{
-    public circle extend Shape(int x,int y){
+class big_circle extend Shape{
+    public circle(int x,int y){
         super(x,y);
     }
 }

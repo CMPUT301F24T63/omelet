@@ -1,7 +1,7 @@
 public abstract class Shape {
     private int x;
     private int y;
-    String color = "blue";
+    Private String color = "red";
 
     // this is on test branch
 

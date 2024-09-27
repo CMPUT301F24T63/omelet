@@ -2,8 +2,8 @@ class Shape {
     private int x;
     private int y;
 
-    public Shape(int xval, int yval) {
-        this.x = xval;
-        this.y = yval;
+    public Shape(int x_val, int y_val) {
+        this.x = x_val;
+        this.y = y_val;
     }
 }

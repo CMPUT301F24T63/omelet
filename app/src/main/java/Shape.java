@@ -1,10 +1,13 @@
 public abstract class Shape {
     private int x;
     private int y;
-    private String color = "blue";
 
-    public Shape(int xval, int yval) {
-        this.x = xval;
-        this.y = yval;
+    private String color = "red";
+
+    // this is on test branch
+
+    public Shape(int x_val, int y_val) {
+        this.x = x_val;
+        this.y = y_val;
     }
 }

@@ -3,8 +3,9 @@ public abstract class Shape {
     private int y;
     private String color = "violet";
 
-    public Shape(int xval, int yval) {
-        this.x = xval;
-        this.y = yval;
+
+    public Shape(int x_val, int y_val) {
+        this.x = x_val;
+        this.y = y_val;
     }
 }
